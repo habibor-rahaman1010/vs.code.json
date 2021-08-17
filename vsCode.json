@@ -1,0 +1,47 @@
+{
+    "update.mode": "none",
+    "update.enableWindowsBackgroundUpdates": false,
+    "workbench.iconTheme": "vscode-icons",
+    
+    "launch": {
+      "version": "0.2.0",
+        "configurations": [],
+        "compounds": []
+    },
+
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 17,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "explorer.confirmDragAndDrop": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    
+    //coursor
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "expand",
+    
+
+    //terminal
+  "terminal.integrated.fontSize": 17,
+  "terminal.integrated.fontWeight": "400",
+  // "terminal.integrated.fontFamily": "monospace",
+ 
+  
+  // terminal customization
+  "workbench.colorCustomizations": {
+    "terminal.background": "#11111b",
+    "terminal.foreground": "#c6d3d6",
+    "terminalCursor.foreground": "#00d9ff", //terminal coursor color
+    "editor.background": "#11111b", // body background color
+    "editorCursor.foreground": "#ffd000", // coursor color
+    "sideBar.background": "#1a1a27",  //sidebar background color
+    "activityBar.background": "#11111b", 
+    "titleBar.activeBackground": "#11111b",
+    "tab.inactiveBackground": "#1a1a27",
+    "tab.activeBackground": "#021331",
+    "editorGroupHeader.tabsBackground": "#1a1a27",
+    "editorGroupHeader.border": "#000000D0",
+  },
+  "explorer.confirmDelete": false,
+}
