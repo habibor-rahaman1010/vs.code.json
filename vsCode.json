@@ -45,6 +45,7 @@
     "editorGroupHeader.border": "#000000D0",
   },
   "explorer.confirmDelete": false,
+  "terminal.explorerKind": "integrated",
 }
 
 
@@ -99,5 +100,6 @@
     "editorGroupHeader.border": "#000000D0",
   },
   "explorer.confirmDelete": false,
+  "terminal.explorerKind": "integrated",
 }
 
