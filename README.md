@@ -1,5 +1,3 @@
-my setup:
-
 //update third version......
 {
     // code-editor-author-Habibor-Rahaman.
